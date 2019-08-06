@@ -1,0 +1,4 @@
+var w ={
+	w1: acknowledge,
+	
+}
